@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Naroine/Kasa/precache-manifest.8c276af070712aa048f161e217bc36c9.js"
+  "/Naroine/Kasa/precache-manifest.ba3d500d177366f7d14dbe505222cb08.js"
 );
 
 workbox.clientsClaim();
