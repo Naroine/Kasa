@@ -1,0 +1,36 @@
+
+ul{
+    display: flex;
+    justify-content:flex-end;
+    color: #ff0000;
+    list-style-type: none;
+    padding-inline-start: 0;
+    margin: 0;
+    
+   
+}
+nav li{
+    margin: 10px;
+    font-size: 0.8em;
+    font-size: 25px;
+   
+}
+.link{
+   text-decoration: none;
+    color:#FF6060;
+    font-weight: 500;
+   
+}
+
+.activated{
+    text-decoration: underline;
+}
+
+a{
+    text-decoration: none;
+}
+@media screen and (max-width: 699px){
+    nav li{
+        font-size: 12px;
+    }
+}

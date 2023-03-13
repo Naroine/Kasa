@@ -1,0 +1,41 @@
+.bodyError{
+    background-color: #E5E5E5;
+}   
+
+.blocError {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.blocError p{
+    font-size: 36px;
+    padding: 0 20px;
+}
+strong {
+    font-size: 288px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    color: #FF6060;
+
+}
+.bodyError p{
+    font-size: 36px;
+}
+.blocError a {
+    padding: 70px;
+    font-size: 18px;
+    text-decoration: underline;
+}
+
+@media screen and (max-width: 829px){
+    strong{
+        font-size: 96px;
+    }
+    .blocError p{
+        font-size: 18px;
+        text-align: center;
+    }
+    .blocError a{
+        font-size: 14px;
+    }
+}

@@ -1,0 +1,52 @@
+.collapse-block {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #ff6060;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  max-width: 900px;
+  color: #f6f6f6;
+  border-radius: 10px;
+  padding: 10px 20px;
+}
+
+button {
+  width: 30px;
+  height: 30px;
+  background: transparent;
+  border: 0;
+}
+
+.vector {
+  height: 30px;
+  width: 30px;
+  rotate: 180deg;
+  cursor: pointer;
+}
+
+.title {
+  position: absolute;
+}
+
+h1 {
+  color: white;
+  -webkit-margin-after: 10px;
+          margin-block-end: 10px;
+  -webkit-margin-before: 0;
+          margin-block-start: 0;
+  font-size: 20px;
+}
+
+.texte {
+  height: -webkit-max-content;
+  height: -moz-max-content;
+  height: max-content;
+  background-color: #f6f6f6;
+  font-size: 1.3em;
+  padding: 10px 20px;
+  position: relative;
+  top: -20px;
+  max-width: 900px;
+  margin: 0 auto;
+}/*# sourceMappingURL=collapse.css.map */

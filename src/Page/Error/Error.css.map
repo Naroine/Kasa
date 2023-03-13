@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "sources": [
+    "Error.scss",
+    "Error.css"
+  ],
+  "names": [],
+  "mappings": "AAAA;EACI,yBAAA;ACCJ;;ADEA;EACI,aAAA;EACA,sBAAA;EACA,mBAAA;ACCJ;;ADCA;EACI,eAAA;EACA,eAAA;ACEJ;;ADAA;EACI,gBAAA;EACA,gBAAA;EACA,mBAAA;EACA,cAAA;ACGJ;;ADAA;EACI,eAAA;ACGJ;;ADDA;EACI,aAAA;EACA,eAAA;EACA,0BAAA;ACIJ;;ADDA;EACI;IACI,eAAA;ECIN;EDFE;IACI,eAAA;IACA,kBAAA;ECIN;EDFE;IACI,eAAA;ECIN;AACF",
+  "file": "Error.css"
+}

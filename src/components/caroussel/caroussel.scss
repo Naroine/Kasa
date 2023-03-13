@@ -1,0 +1,43 @@
+.slider{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    position: relative;
+   
+}
+
+.slider img{
+    border-radius: 25px;
+}
+
+
+.vectorNext{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    rotate: 90deg;
+    cursor: pointer;
+    top: 50%;
+    right: 0;
+    padding: 0 0
+    
+}
+.vectorPrev{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    rotate: -90deg;
+    cursor: pointer;
+    top: 50%;
+    padding: 0 0
+    
+}
+
+.image-number{
+    font-size: 15px;
+    color: white;
+    position: absolute;
+    left: 50%;
+    bottom: 20px;
+
+}
