@@ -13,7 +13,7 @@ export default function Navbar() {
               className={({ isActive }) => (isActive ? "activated" : "link")}
               end
             >
-              ACCUEIL
+              Accueil
             </NavLink>
           </li>
           <li>
@@ -22,7 +22,7 @@ export default function Navbar() {
               to="/about"
               end
             >
-              A PROPOS
+              A propos
             </NavLink>
           </li>
         </ul>
